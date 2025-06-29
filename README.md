@@ -1,5 +1,5 @@
 # FreeRTOS_Elavator_Project
-Boasrd: STM32
+Board: STM32
 ### 📌 프로젝트 개요
 
 | 항목 | 내용 |
